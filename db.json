@@ -20,8 +20,8 @@
       "destCd": "055",
       "destName": "CHENNAI"
     }
-  ]
-  "loadingPt": [
+  ],
+  "loadingPoint": [
      {
       "loadingPtCd": "L1",
       "loadingPtName": "Loading Pt 1"
