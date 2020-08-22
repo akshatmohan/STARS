@@ -23,8 +23,8 @@
   ],
     "load": [
     {
-      "loadingPt": "020",
-      "loadingPtName": "GKP"
+      "loadingPt": "L1",
+      "loadingPtName": "Loading Pt 1"
     },
      {
       "loadingPt": "056",
