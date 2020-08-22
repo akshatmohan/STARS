@@ -20,5 +20,19 @@
       "destCd": "055",
       "destName": "CHENNAI"
     }
+  ],
+    "load": [
+    {
+      "loadingPt": "020",
+      "loadingPtName": "GKP"
+    },
+     {
+      "loadingPt": "056",
+      "loadingPtName": "JSR"
+    },
+     {
+      "loadingPt": "032",
+      "loadingPtName": "MUMBAI"
+    }     
   ]
 }
