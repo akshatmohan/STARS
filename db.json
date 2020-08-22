@@ -22,17 +22,17 @@
     }
   ],
   "loadingPt" : [
-    {
-    "loadingPtCd" : "L1"
-    "loadingPtName" : "Loading 1"
-      },
-    {
-       "loadingPtCd" : "L2"
-    "loadingPtName" : "Loading 2"
+     {
+      "loadingPtCd": "L1",
+      "loadingPtName": "Loading Pt 1"
     },
-    {
-     "loadingPtCd" : "L3"
-    "loadingPtName" : "Loading 3"
-    }
+     {
+      "loadingPtCd": "L2",
+      "loadingPtName": "Loading Pt 2"
+    },
+     {
+      "loadingPtCd": "L3",
+      "loadingPtName": "Loading Pt 3"
+    },
   ]
 }
