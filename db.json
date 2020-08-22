@@ -20,19 +20,5 @@
       "destCd": "055",
       "destName": "CHENNAI"
     }
-  ],
-  "loadingPoint": [
-     {
-      "loadingPtCd": "L1",
-      "loadingPtName": "Loading Pt 1"
-    },
-     {
-      "loadingPtCd": "L2",
-      "loadingPtName": "Loading Pt 2"
-    },
-     {
-      "loadingPtCd": "L3",
-      "loadingPtName": "Loading Pt 3"
-    }
   ]
 }
