@@ -3,18 +3,18 @@
     {
       "destCd": "020",
       "destName": "GKP"
-    }
+    },
      {
       "destCd": "056",
       "destName": "JSR"
-    }
+    },
      {
       "destCd": "032",
       "destName": "MUMBAI"
-    }
+    },
      {
       "destCd": "067",
       "destName": "NDLS"
     }
-  ], 
+  ] 
 }
