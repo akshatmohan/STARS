@@ -27,12 +27,12 @@
       "loadingPtName": "Loading Pt 1"
     },
      {
-      "loadingPt": "056",
-      "loadingPtName": "JSR"
+      "loadingPt": "L2",
+      "loadingPtName": "Loading Pt 2"
     },
      {
-      "loadingPt": "032",
-      "loadingPtName": "MUMBAI"
+      "loadingPt": "L3",
+      "loadingPtName": "Loading Pt 3"
     }     
   ]
 }
