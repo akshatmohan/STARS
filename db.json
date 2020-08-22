@@ -34,5 +34,13 @@
       "loadingPt": "L3",
       "loadingPtName": "Loading Point 3"
     }     
+  ],
+      "wgnStatus": [
+    {
+      "status": "SPLE"
+    },
+     {
+      "status": "SPLC"      
+    }    
   ]
 }
