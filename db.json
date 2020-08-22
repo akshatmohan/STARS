@@ -24,15 +24,15 @@
     "load": [
     {
       "loadingPt": "L1",
-      "loadingPtName": "Loading Pt 1"
+      "loadingPtName": "Loading Point 1"
     },
      {
       "loadingPt": "L2",
-      "loadingPtName": "Loading Pt 2"
+      "loadingPtName": "Loading Point 2"
     },
      {
       "loadingPt": "L3",
-      "loadingPtName": "Loading Pt 3"
+      "loadingPtName": "Loading Point 3"
     }     
   ]
 }
